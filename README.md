@@ -8,22 +8,9 @@ The purpose is to forecast e-commerce sales using historical transaction data. T
 **Dataset Used**
 
 Source: Kaggle (E-commerce Sales Data) 
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
-Columns:
-
-InvoiceDate: Date of transaction
-
-Quantity: Number of items sold
-
-UnitPrice: Price per unit
-
-TotalSales: Computed as Quantity * UnitPrice
-
-DayOfWeek: Extracted from InvoiceDate
-
-Month: Extracted from InvoiceDate
-
-**Steps in the Analysis**
+**Steps**
 
 Data Preprocessing:
 
