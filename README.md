@@ -2,6 +2,9 @@
 
 The purpose is to forecast e-commerce sales using historical transaction data. The analysis incorporates seasonality detection, moving averages, and basic predictive modeling to estimate future sales trends.
 
+![image](https://github.com/user-attachments/assets/bc2d932d-5bba-4da5-a502-c81607938751)
+
+
 **Dataset Used**
 
 Source: Kaggle (E-commerce Sales Data) 
